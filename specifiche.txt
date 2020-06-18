@@ -1,0 +1,30 @@
+Leonardo Dardari 525916
+Francesco Forlini 498604
+
+Casi d'uso: User
+• Signup
+• Autenticazione
+• Visualizzare il mio profilo
+
+
+
+Casi d'uso: Project
+• Creare un nuovo progetto
+• Visualizzare i miei progetti
+• Visualizzare i progetti condivisi con me
+• Aggiornare i dati di un mio progetto
+• Cancellare un mio progetto
+• Condividere un mio progetto con un altro utente
+
+
+Casi d'uso: Task
+• Aggiungere un nuovo Task a un mio progetto
+• Aggiornare un Task di un mio progetto
+• Cancellare un Task da un mio progetto
+• Assegnare un Task di un mio progetto ad un utente che ha visibilità sul mio progetto
+
+
+
+Implementazione aggiuntive
+• Admin: lista Users
+• Admin: rimozione di uno User
